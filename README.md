@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 **c. Prepare Data.**
 
-We have released our videos in . The questions for evaluation can be found in `questions/`.
+We have released our videos, which can be downloaded from [google drive](https://drive.google.com/file/d/1IPmx6Y80UrXwVPmZJh6zjCPHtlsw4p9n/view?usp=sharing). The questions for evaluation can be found in `questions/`.
 
 ### Run inference
 **1. GPT-4o**
