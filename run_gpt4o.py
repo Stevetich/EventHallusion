@@ -8,9 +8,6 @@ import base64
 import requests
 import numpy as np
 
-import logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 def parse_args():
     parser = ArgumentParser()
     parser.add_argument("--video_path", type=str, default=None)
@@ -111,7 +108,7 @@ def load_video_base64(video_path):
 if __name__ == "__main__":
     args = parse_args()
     
-    api_key = "sk-YIjoAeNTCeQ81ROfA0632bC486314c55A51a04B3477e04Dc"
+    api_key = ""
 
     # Loading questions
     question_paths = {
