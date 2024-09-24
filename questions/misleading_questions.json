@@ -1,0 +1,2059 @@
+[
+    {
+        "id": "misleading_001",
+        "category": "food&drink",
+        "length": "00:14",
+        "event_info": {
+            "object": [
+                "person",
+                "food",
+                "vegetables"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is boiling vegetables.",
+            "bias": "This person is eating vegetables."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_002",
+        "category": "food&drink",
+        "length": "00:10",
+        "event_info": {
+            "object": [
+                "person",
+                "food",
+                "spaghetti"
+            ],
+            "scene": "On the table, in a bright room maybe.",
+            "caption": "This person is boiling spaghetti.",
+            "bias": "This person is eating spaghetti."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_003",
+        "category": "food&drink",
+        "length": "00:07",
+        "event_info": {
+            "object": [
+                "person",
+                "drinks",
+                "coffee"
+            ],
+            "scene": "In the coffee bar.",
+            "caption": "This person is making coffee.",
+            "bias": "This person is drinking coffee."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking coffee in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_004",
+        "category": "food&drink",
+        "length": "00:14",
+        "event_info": {
+            "object": [
+                "person",
+                "drinks",
+                "coffee"
+            ],
+            "scene": "In the coffee bar.",
+            "caption": "This person is brewing coffee.",
+            "bias": "This person is drinking coffee."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking coffee in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_005",
+        "category": "food&drink",
+        "length": "00:38",
+        "event_info": {
+            "object": [
+                "person",
+                "drinks",
+                "beverage",
+                "coffee"
+            ],
+            "scene": "In the coffee bar.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_006",
+        "category": "food&drink",
+        "length": "00:12",
+        "event_info": {
+            "object": [
+                "person",
+                "drinks",
+                "beverage",
+                "coffee"
+            ],
+            "scene": "In the coffee bar.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_007",
+        "category": "food&drink",
+        "length": "00:17",
+        "event_info": {
+            "object": [
+                "person",
+                "drinks",
+                "coffee"
+            ],
+            "scene": "In the coffee bar.",
+            "caption": "This person is making latte art.",
+            "bias": "This person is drinking coffee."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking coffee in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_008",
+        "category": "food&drink",
+        "length": "00:05",
+        "event_info": {
+            "object": [
+                "person",
+                "drinks",
+                "coffee"
+            ],
+            "scene": "On the table, in a bright coffee bar.",
+            "caption": "This person is pouring coffee into a ice glass.",
+            "bias": "This person is drinking coffee."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking coffee in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_009",
+        "category": "food&drink",
+        "length": "00:12",
+        "event_info": {
+            "object": [
+                "person",
+                "drinks",
+                "coffee"
+            ],
+            "scene": "On the table, in a bright room.",
+            "caption": "This person is brewing coffee.",
+            "bias": "This person is drinking coffee."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking coffee in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_010",
+        "category": "food&drink",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "drinks",
+                "coffee"
+            ],
+            "scene": "On the table, in a bright room.",
+            "caption": "This person is brewing coffee.",
+            "bias": "This person is drinking coffee."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking coffee in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_011",
+        "category": "food&drink",
+        "length": "00:04",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the market.",
+            "caption": "This person is picking lemons on the shelf.",
+            "bias": "This person is eating lemons."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating the lemon in this video?",
+                "answer": "No."
+            },
+            {
+                "type": "hallucination",
+                "question": "Is the person using the lemon to make the lemonade in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_012",
+        "category": "food&drink",
+        "length": "00:09",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen, on the chopping board.",
+            "caption": "This person is chopping carrots.",
+            "bias": "This person is eating carrots."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating carrots in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_013",
+        "category": "food&drink",
+        "length": "00:06",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen, on the chopping board.",
+            "caption": "This person is chopping lotus roots.",
+            "bias": "This person is eating lotus roots."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating these lotus roots in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_014",
+        "category": "food&drink",
+        "length": "00:19",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen, on the chopping board.",
+            "caption": "This person is chopping food.",
+            "bias": "This person is eating food."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_015",
+        "category": "food&drink",
+        "length": "00:08",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen, on the chopping board.",
+            "caption": "This person is cutting salmon.",
+            "bias": "This person is eating salmon."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating salmon in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_016",
+        "category": "food&drink",
+        "length": "00:03",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen, on the chopping board.",
+            "caption": "This person is cutting meat.",
+            "bias": "This person is eating meat."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating meat in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_017",
+        "category": "food&drink",
+        "length": "00:18",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying eggs.",
+            "bias": "This person is eating eggs."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating eggs in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_018",
+        "category": "food&drink",
+        "length": "00:07",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying food.",
+            "bias": "This person is eating food."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_019",
+        "category": "food&drink",
+        "length": "00:16",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying asparagus and cherry tomatoes.",
+            "bias": "This person is eating vegetables."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating vegetables in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_020",
+        "category": "food&drink",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying food.",
+            "bias": "This person is eating food."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_021",
+        "category": "food&drink",
+        "length": "00:14",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying food.",
+            "bias": "This person is eating food."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_022",
+        "category": "food&drink",
+        "length": "00:21",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying food.",
+            "bias": "This person is eating food."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_023",
+        "category": "food&drink",
+        "length": "00:24",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying food.",
+            "bias": "This person is eating food."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_024",
+        "category": "food&drink",
+        "length": "00:30",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying salmon.",
+            "bias": "This person is eating salmon."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating salmon in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_025",
+        "category": "food&drink",
+        "length": "00:05",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying salmon.",
+            "bias": "This person is eating salmon."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_026",
+        "category": "food&drink",
+        "length": "00:28",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying steak.",
+            "bias": "This person is eating steak."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating steak in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_027",
+        "category": "food&drink",
+        "length": "00:18",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying steak.",
+            "bias": "This person is eating steak."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating steak in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_028",
+        "category": "food&drink",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "In the kitchen.",
+            "caption": "This person is frying steak.",
+            "bias": "This person is eating steak."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating steak in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_029",
+        "category": "food&drink",
+        "length": "00:25",
+        "event_info": {
+            "object": [
+                "person",
+                "beverage"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_030",
+        "category": "food&drink",
+        "length": "00:36",
+        "event_info": {
+            "object": [
+                "person",
+                "beverage"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_031",
+        "category": "food&drink",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "beverage"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_032",
+        "category": "food&drink",
+        "length": "00:29",
+        "event_info": {
+            "object": [
+                "person",
+                "beverage"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_033",
+        "category": "food&drink",
+        "length": "00:18",
+        "event_info": {
+            "object": [
+                "person",
+                "drink"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_034",
+        "category": "food&drink",
+        "length": "00:23",
+        "event_info": {
+            "object": [
+                "person",
+                "drink"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_035",
+        "category": "food&drink",
+        "length": "00:19",
+        "event_info": {
+            "object": [
+                "person",
+                "beverage"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_036",
+        "category": "food&drink",
+        "length": "00:25",
+        "event_info": {
+            "object": [
+                "person",
+                "beverage"
+            ],
+            "scene": "On a table, with a blender and a bottle.",
+            "caption": "This person is making a beverage.",
+            "bias": "This person is drinking the beverage."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking the beverage in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_037",
+        "category": "food&drink",
+        "length": "00:41",
+        "event_info": {
+            "object": [
+                "person",
+                "food"
+            ],
+            "scene": "On a table, in the kitchen.",
+            "caption": "This person is making a rice roll.",
+            "bias": "This person is eating the food."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person eating the food in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_038",
+        "category": "food&drink",
+        "length": "00:13",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is brewing tea.",
+            "bias": "This person is drinking tea."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_039",
+        "category": "food&drink",
+        "length": "00:33",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is brewing tea.",
+            "bias": "This person is drinking tea."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_040",
+        "category": "food&drink",
+        "length": "00:19",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is brewing tea.",
+            "bias": "This person is drinking tea."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_041",
+        "category": "food&drink",
+        "length": "00:28",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is brewing tea.",
+            "bias": "This person is drinking tea."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_042",
+        "category": "food&drink",
+        "length": "00:45",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is preparing yerba mate.",
+            "bias": "This person is drinking tea."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_043",
+        "category": "food&drink",
+        "length": "00:37",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is brewing tea.",
+            "bias": "This person is drinking tea."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_044",
+        "category": "food&drink",
+        "length": "00:27",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is preparing yerba mate.",
+            "bias": "This person is drinking tea."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_045",
+        "category": "food&drink",
+        "length": "00:21",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making matcha.",
+            "bias": "This person is drinking matcha."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_046",
+        "category": "food&drink",
+        "length": "00:10",
+        "event_info": {
+            "object": [
+                "person",
+                "tea"
+            ],
+            "scene": "On a tabel, with a bottle on it.",
+            "caption": "This person is making matcha.",
+            "bias": "This person is drinking matcha."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person drinking tea in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_047",
+        "category": "sport",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In an indoor badminton court.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_048",
+        "category": "sport",
+        "length": "00:04",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In a room.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_049",
+        "category": "sport",
+        "length": "00:04",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In an indoor badminton court.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_050",
+        "category": "sport",
+        "length": "00:10",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In a room.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_051",
+        "category": "sport",
+        "length": "00:05",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In an indoor badminton court.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_052",
+        "category": "sport",
+        "length": "00:06",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In an indoor badminton court.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            },
+            {
+                "type": "hallucination",
+                "question": "Is this person playing badminton with others in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_053",
+        "category": "sport",
+        "length": "00:05",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In an indoor badminton court.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_054",
+        "category": "sport",
+        "length": "00:13",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In an indoor badminton court.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_055",
+        "category": "sport",
+        "length": "00:03",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In an indoor badminton court.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_056",
+        "category": "sport",
+        "length": "00:06",
+        "event_info": {
+            "object": [
+                "person",
+                "badminton"
+            ],
+            "scene": "In an indoor badminton court.",
+            "caption": "This athlete is performing a spinning racket trick.",
+            "bias": "This athlete is currently playing badminton."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person engaging in a badminton competition in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_057",
+        "category": "sport",
+        "length": "00:08",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_058",
+        "category": "sport",
+        "length": "00:09",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In a courtyard.",
+            "caption": "This old man is participating in the axe-throwing activity.",
+            "bias": "This old man is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the old man chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_059",
+        "category": "sport",
+        "length": "00:05",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_060",
+        "category": "sport",
+        "length": "00:07",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "This kid is participating in the axe-throwing sport.",
+            "bias": "This kid is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_061",
+        "category": "sport",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_062",
+        "category": "sport",
+        "length": "00:04",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_063",
+        "category": "sport",
+        "length": "00:14",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_064",
+        "category": "sport",
+        "length": "00:04",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In the courtyard.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_065",
+        "category": "sport",
+        "length": "00:10",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "On the grassland.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_066",
+        "category": "sport",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In the courtyard.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_067",
+        "category": "sport",
+        "length": "00:17",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In the courtyard.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_068",
+        "category": "sport",
+        "length": "00:08",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_069",
+        "category": "sport",
+        "length": "00:06",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene, courtyard maybe.",
+            "caption": "This kid is participating in the axe-throwing sport.",
+            "bias": "This kid is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_070",
+        "category": "sport",
+        "length": "00:06",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene, woods maybe.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_071",
+        "category": "sport",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "axe",
+                "wood"
+            ],
+            "scene": "In an outdoor scene, woods maybe.",
+            "caption": "This person is participating in the axe-throwing sport.",
+            "bias": "This person is chopping wood."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person chopping wood in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_072",
+        "category": "vehicle",
+        "length": "00:24",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In an outdoor scene, on the road of a town.",
+            "caption": "This person is repairing the bicycle.",
+            "bias": "This person is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person wearing a red sweatshirt and a black helmet sitting on the bicycle and riding it in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_073",
+        "category": "vehicle",
+        "length": "00:21",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In a place resembling an indoor repair shop.",
+            "caption": "This person is repairing the bicycle.",
+            "bias": "This person is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video sitting on a bicycle and riding it?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_074",
+        "category": "vehicle",
+        "length": "00:06",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "This person is repairing the bicycle.",
+            "bias": "This person is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person with a yellow helmet in the video sitting on a bicycle and riding it?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_075",
+        "category": "vehicle",
+        "length": "00:25",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In a place resembling an indoor repair shop.",
+            "caption": "This person is repairing the bicycle.",
+            "bias": "This person is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video sitting on a bicycle and riding it?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_076",
+        "category": "vehicle",
+        "length": "00:24",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In an outdoor scene, on the road of a town.",
+            "caption": "This person is repairing the bicycle.",
+            "bias": "This person is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video sitting on a bicycle and riding it?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_077",
+        "category": "vehicle",
+        "length": "00:06",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In a place resembling an indoor repair shop.",
+            "caption": "This person is repairing the bicycle.",
+            "bias": "This person is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video sitting on a bicycle and riding it?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_078",
+        "category": "vehicle",
+        "length": "00:19",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In an outdoor scene, on the road of a town.",
+            "caption": "This woman is wearing a cycling helmet and glasses. And she is talking while sitting on the bicycle, the bicycle is still.",
+            "bias": "This woman is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Has the bicycle moved in this video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_079",
+        "category": "vehicle",
+        "length": "00:30",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In an outdoor scene, on the road of a town.",
+            "caption": "This one is wearing a cycling helmet and glasses. And she is talking while sitting on the roadside, next to the bicycle.",
+            "bias": "This woman is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video sitting on a bicycle and riding it?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_080",
+        "category": "vehicle",
+        "length": "00:14",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In an outdoor scene, on the road of a town.",
+            "caption": "A group of riders are inspecting their vehicles while their bikes are parked.",
+            "bias": "These riders are riding their bicycles."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Are these riders in the video sitting on their bicycles and riding?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_081",
+        "category": "vehicle",
+        "length": "00:04",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "Seems to be in a bicycle shop.",
+            "caption": "A woman is standing next to a bicycle, seemingly demonstrating and explaining it.",
+            "bias": "This woman is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this woman sitting on the bicycle and riding it in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_082",
+        "category": "vehicle",
+        "length": "00:28",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In an outdoor scene, on the road of a town.",
+            "caption": "A man is standing next to a bicycle, seemingly demonstrating and explaining it.",
+            "bias": "This man is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this man sitting on a bicycle and riding it in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_083",
+        "category": "vehicle",
+        "length": "00:08",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In a park.",
+            "caption": "A man is standing next to a bicycle, seemingly demonstrating and explaining it.",
+            "bias": "This man is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person sitting on a bicycle and riding it in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_084",
+        "category": "vehicle",
+        "length": "00:03",
+        "event_info": {
+            "object": [
+                "person",
+                "bicycle"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "A woman is standing next to a bicycle, seemingly demonstrating and explaining it.",
+            "bias": "This woman is riding the bicycle."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this person sitting on a bicycle and riding it in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_085",
+        "category": "vehicle",
+        "length": "00:13",
+        "event_info": {
+            "object": [
+                "person",
+                "car"
+            ],
+            "scene": "In an outdoor scene, maybe the parking lot.",
+            "caption": "A woman stood next to two cars, seemingly demonstrating and explaining them.",
+            "bias": "This woman is driving the car."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this woman driving the car in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_086",
+        "category": "vehicle",
+        "length": "00:10",
+        "event_info": {
+            "object": [
+                "person",
+                "car"
+            ],
+            "scene": "In an outdoor scene, maybe the parking lot.",
+            "caption": "Two men stood next to a car, talking with each other.",
+            "bias": "The man is driving the car."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Are these two men driving the car in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_087",
+        "category": "vehicle",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "car"
+            ],
+            "scene": "In an outdoor scene, maybe the parking lot.",
+            "caption": "A man stood outside the car, talking to the woman driver.",
+            "bias": "This man is driving the car."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the man wearing the white shirt driving the car in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_088",
+        "category": "vehicle",
+        "length": "00:06",
+        "event_info": {
+            "object": [
+                "person",
+                "car"
+            ],
+            "scene": "In an outdoor scene, maybe the parking lot.",
+            "caption": "A woman stood next to a car, seemingly demonstrating and explaining it.",
+            "bias": "This woman is driving the car."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this woman driving the car in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_089",
+        "category": "vehicle",
+        "length": "00:13",
+        "event_info": {
+            "object": [
+                "person",
+                "car"
+            ],
+            "scene": "In an outdoor scene, maybe the parking lot.",
+            "caption": "A man stood next to a car, seemingly demonstrating and explaining it.",
+            "bias": "This man is driving the car."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is this man driving the car in the video?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_090",
+        "category": "vehicle",
+        "length": "00:11",
+        "event_info": {
+            "object": [
+                "person",
+                "helicopter"
+            ],
+            "scene": "In an indoor parking area.",
+            "caption": "A man stood next to a helicopter, seemingly demonstrating and explaining them.",
+            "bias": "This man is driving the helicopter."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video piloting the helicopter?",
+                "answer": "No."
+            },
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video taking a helicopter ride?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_091",
+        "category": "vehicle",
+        "length": "00:05",
+        "event_info": {
+            "object": [
+                "person",
+                "helicopter"
+            ],
+            "scene": "In an indoor parking area.",
+            "caption": "A man is getting off a helicopter and then closing its door. The helicopter is not running and is parked indoors.",
+            "bias": "This man is driving the helicopter."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video piloting the helicopter?",
+                "answer": "No."
+            },
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video taking a helicopter ride?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_092",
+        "category": "vehicle",
+        "length": "00:39",
+        "event_info": {
+            "object": [
+                "person",
+                "helicopter"
+            ],
+            "scene": "In an indoor parking area.",
+            "caption": "A man stood next to a helicopter, seemingly demonstrating and explaining them.",
+            "bias": "This man is driving the helicopter."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video piloting the helicopter?",
+                "answer": "No."
+            },
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video taking a helicopter ride?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_093",
+        "category": "vehicle",
+        "length": "00:10",
+        "event_info": {
+            "object": [
+                "person",
+                "helicopter"
+            ],
+            "scene": "In an outdoor scene.",
+            "caption": "Two men stood next to a helicopter, talking to each other.",
+            "bias": "They are driving the helicopter."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person wearing a hat in the video piloting the helicopter?",
+                "answer": "No."
+            },
+            {
+                "type": "hallucination",
+                "question": "Is the person wearing a brown jacket in the video taking a helicopter ride?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_094",
+        "category": "vehicle",
+        "length": "00:13",
+        "event_info": {
+            "object": [
+                "person",
+                "helicopter"
+            ],
+            "scene": "In an outdoor parking area.",
+            "caption": "A man was demonstrating and explaining a helicopter next to him.",
+            "bias": "This man is driving the helicopter."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video piloting the helicopter?",
+                "answer": "No."
+            },
+            {
+                "type": "hallucination",
+                "question": "Is the person in the video taking a helicopter ride?",
+                "answer": "No."
+            }
+        ]
+    },
+    {
+        "id": "misleading_095",
+        "category": "vehicle",
+        "length": "00:13",
+        "event_info": {
+            "object": [
+                "person",
+                "helicopter"
+            ],
+            "scene": "In an indoor parking area.",
+            "caption": "A group of people are walking around outside a helicopter, looking very excited.",
+            "bias": "They are driving the helicopter."
+        },
+        "questions": [
+            {
+                "type": "hallucination",
+                "question": "Are these guys in the video taking a helicopter ride?",
+                "answer": "No."
+            }
+        ]
+    }
+]
