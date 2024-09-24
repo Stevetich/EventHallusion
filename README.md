@@ -47,14 +47,21 @@ pip install -e .
 pip install decord opencv-python git+https://github.com/facebookresearch/pytorchvideo.git@28fe037d212663c6a24f373b94cc5d478c8c1a1d
 ```
 
-After installation, download the checkpoint of Video-LLaVA in [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA#%EF%B8%8F-requirements-and-installation) and run inference with the following commands:
+After installation, download the checkpoint of Video-LLaVA in [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA.git) and run inference with the following commands:
 ```shell
 cd videollava/eval/self_bench/
 python run_inference.py --model_path <your_path_to_video_llava_ckpt> --video_path <downloaded_video_path>
 ```
+
 
 ### Run Evaluation
 After obtaining the prediction results file, run the following commands for metrics:
 ```shell
 python eval.py --input_file <your_path_to_prediction_json>
 ```
+
+## Citation
+If you find our paper useful, please cite:
+
+## Acknowledgement
+We sincerely thank authors of [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA.git), [TempCompass](https://github.com/llyx97/TempCompass.git), [VideoHallucer](https://github.com/patrick-tssn/VideoHallucer.git) for opening their methods.
