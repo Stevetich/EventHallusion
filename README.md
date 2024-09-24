@@ -53,6 +53,8 @@ cd videollava/eval/self_bench/
 python run_inference.py --model_path <your_path_to_video_llava_ckpt> --video_path <downloaded_video_path>
 ```
 
+Besides, we provide examples of prediction files, which can be found in `predictions/`
+
 
 ### Run Evaluation
 After obtaining the prediction results file, run the following commands for metrics:
