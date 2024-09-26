@@ -64,7 +64,7 @@ python eval.py --input_file <your_path_to_prediction_json>
 
 ## Citation
 If you find our paper useful, please cite:
-```shell
+```bibtex
 @article{eventhallusion,
     title={EventHallusion: Diagnosing Event Hallucinations in Video LLMs},
     author={Jiacheng Zhang, Yang Jiao, Shaoxiang Chen, Jingjing Chen, Yu-Gang Jiang},
