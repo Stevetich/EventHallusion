@@ -1,5 +1,5 @@
 # EventHallusion
-EventHallusion is the first benchmark that focuses on the evaluation of event hallucinations in Video LLMs. This repository includes the code and benchmark data of our paper "EventHallusion: Diagnosing Event Hallucinations in Video LLMs", by Jiacheng Zhang, Yang Jiao, Shaoxiang Chen, Jingjing Chen, and Yu-Gang Jiang.
+EventHallusion is the first benchmark that focuses on the evaluation of event hallucinations in Video LLMs. This repository includes the code and benchmark data of our paper "[EventHallusion: Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org/abs/2409.16597)", by Jiacheng Zhang, Yang Jiao, Shaoxiang Chen, Jingjing Chen, and Yu-Gang Jiang.
 
 <p align="center">
   <img src="assets/example.png" alt="示例图片" width="500"/>
@@ -64,6 +64,13 @@ python eval.py --input_file <your_path_to_prediction_json>
 
 ## Citation
 If you find our paper useful, please cite:
-
+```shell
+@article{eventhallusion,
+    title={EventHallusion: Diagnosing Event Hallucinations in Video LLMs},
+    author={Jiacheng Zhang, Yang Jiao, Shaoxiang Chen, Jingjing Chen, Yu-Gang Jiang},
+    journal={arXiv preprint arXiv: 2409.16597},
+    year={2024}
+}
+```
 ## Acknowledgement
 We sincerely thank authors of [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA.git), [TempCompass](https://github.com/llyx97/TempCompass.git), [VideoHallucer](https://github.com/patrick-tssn/VideoHallucer.git) for opening their methods.
