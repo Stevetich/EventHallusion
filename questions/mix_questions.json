@@ -1,7 +1,6 @@
 [
     {
-        "video_name": "beluga_scare_kid",
-        "id": "",
+        "id": "mix_001",
         "category": "pet&animal",
         "length": "00:05",
         "event_info": {
@@ -22,8 +21,7 @@
         ]
     },
     {
-        "video_name": "bird_snatch_food",
-        "id": "",
+        "id": "mix_002",
         "category": "pet&animal",
         "length": "00:06",
         "event_info": {
@@ -45,8 +43,7 @@
         ]
     },
     {
-        "video_name": "cat_hit_screen",
-        "id": "",
+        "id": "mix_003",
         "category": "pet&animal",
         "length": "00:06",
         "event_info": {
@@ -68,8 +65,7 @@
         ]
     },
     {
-        "video_name": "dog_eat_food",
-        "id": "",
+        "id": "mix_004",
         "category": "pet&animal",
         "length": "00:04",
         "event_info": {
@@ -91,8 +87,7 @@
         ]
     },
     {
-        "video_name": "dog_fight",
-        "id": "",
+        "id": "mix_005",
         "category": "pet&animal",
         "length": "00:09",
         "event_info": {
@@ -112,8 +107,7 @@
         ]
     },
     {
-        "video_name": "dog_hit_man",
-        "id": "",
+        "id": "mix_006",
         "category": "pet&animal",
         "length": "00:09",
         "event_info": {
@@ -134,8 +128,7 @@
         ]
     },
     {
-        "video_name": "horse_beat",
-        "id": "",
+        "id": "mix_007",
         "category": "pet&animal",
         "length": "00:11",
         "event_info": {
@@ -156,8 +149,7 @@
         ]
     },
     {
-        "video_name": "people_fall_down",
-        "id": "",
+        "id": "mix_008",
         "category": "pet&animal",
         "length": "00:08",
         "event_info": {
@@ -178,8 +170,7 @@
         ]
     },
     {
-        "video_name": "snake_bite",
-        "id": "",
+        "id": "mix_009",
         "category": "pet&animal",
         "length": "00:06",
         "event_info": {
@@ -200,8 +191,7 @@
         ]
     },
     {
-        "video_name": "bicycle_accident",
-        "id": "",
+        "id": "mix_010",
         "category": "vehicle",
         "length": "00:13",
         "event_info": {
@@ -222,8 +212,7 @@
         ]
     },
     {
-        "video_name": "car_accident",
-        "id": "",
+        "id": "mix_011",
         "category": "vehicle",
         "length": "00:15",
         "event_info": {
@@ -245,8 +234,7 @@
         ]
     },
     {
-        "video_name": "car_accident_2",
-        "id": "",
+        "id": "mix_012",
         "category": "vehicle",
         "length": "00:06",
         "event_info": {
@@ -267,8 +255,7 @@
         ]
     },
     {
-        "video_name": "car_accident_3",
-        "id": "",
+        "id": "mix_013",
         "category": "vehicle",
         "length": "00:12",
         "event_info": {
@@ -288,8 +275,7 @@
         ]
     },
     {
-        "video_name": "car_backwards",
-        "id": "",
+        "id": "mix_014",
         "category": "vehicle",
         "length": "00:04",
         "event_info": {
@@ -311,8 +297,7 @@
         ]
     },
     {
-        "video_name": "chain_break",
-        "id": "",
+        "id": "mix_015",
         "category": "vehicle",
         "length": "00:08",
         "event_info": {
@@ -333,8 +318,7 @@
         ]
     },
     {
-        "video_name": "fall_down",
-        "id": "",
+        "id": "mix_016",
         "category": "vehicle",
         "length": "00:05",
         "event_info": {
@@ -355,8 +339,7 @@
         ]
     },
     {
-        "video_name": "fall_down_2",
-        "id": "",
+        "id": "mix_017",
         "category": "vehicle",
         "length": "00:07",
         "event_info": {
@@ -377,8 +360,7 @@
         ]
     },
     {
-        "video_name": "fall_down_3",
-        "id": "",
+        "id": "mix_018",
         "category": "vehicle",
         "length": "00:08",
         "event_info": {
@@ -399,8 +381,7 @@
         ]
     },
     {
-        "video_name": "plane_refly",
-        "id": "",
+        "id": "mix_019",
         "category": "vehicle",
         "length": "00:17",
         "event_info": {
@@ -420,8 +401,7 @@
         ]
     },
     {
-        "video_name": "barbell_release",
-        "id": "",
+        "id": "mix_020",
         "category": "gym",
         "length": "00:04",
         "event_info": {
@@ -442,8 +422,7 @@
         ]
     },
     {
-        "video_name": "barbell_release_2",
-        "id": "",
+        "id": "mix_021",
         "category": "gym",
         "length": "00:12",
         "event_info": {
@@ -464,8 +443,7 @@
         ]
     },
     {
-        "video_name": "barbell_release_3",
-        "id": "",
+        "id": "mix_022",
         "category": "gym",
         "length": "00:08",
         "event_info": {
@@ -486,8 +464,7 @@
         ]
     },
     {
-        "video_name": "dumbbell_hit_phone",
-        "id": "",
+        "id": "mix_023",
         "category": "gym",
         "length": "00:21",
         "event_info": {
@@ -509,8 +486,7 @@
         ]
     },
     {
-        "video_name": "equipment_damage",
-        "id": "",
+        "id": "mix_024",
         "category": "gym",
         "length": "00:06",
         "event_info": {
@@ -531,8 +507,7 @@
         ]
     },
     {
-        "video_name": "faint",
-        "id": "",
+        "id": "mix_025",
         "category": "gym",
         "length": "00:13",
         "event_info": {
@@ -553,8 +528,7 @@
         ]
     },
     {
-        "video_name": "fall_down",
-        "id": "",
+        "id": "mix_026",
         "category": "gym",
         "length": "00:11",
         "event_info": {
@@ -575,8 +549,7 @@
         ]
     },
     {
-        "video_name": "fall_down_2",
-        "id": "",
+        "id": "mix_027",
         "category": "gym",
         "length": "00:07",
         "event_info": {
@@ -597,8 +570,7 @@
         ]
     },
     {
-        "video_name": "fall_down_3",
-        "id": "",
+        "id": "mix_028",
         "category": "gym",
         "length": "00:34",
         "event_info": {
@@ -619,8 +591,7 @@
         ]
     },
     {
-        "video_name": "fall_down_4",
-        "id": "",
+        "id": "mix_029",
         "category": "gym",
         "length": "00:10",
         "event_info": {
@@ -641,8 +612,7 @@
         ]
     },
     {
-        "video_name": "fall_down_5",
-        "id": "",
+        "id": "mix_030",
         "category": "gym",
         "length": "00:12",
         "event_info": {
@@ -663,8 +633,7 @@
         ]
     },
     {
-        "video_name": "fall_down_6",
-        "id": "",
+        "id": "mix_031",
         "category": "gym",
         "length": "00:12",
         "event_info": {
@@ -685,8 +654,7 @@
         ]
     },
     {
-        "video_name": "fall_down_7",
-        "id": "",
+        "id": "mix_032",
         "category": "gym",
         "length": "00:05",
         "event_info": {
@@ -707,8 +675,7 @@
         ]
     },
     {
-        "video_name": "gym_hold_people",
-        "id": "",
+        "id": "mix_033",
         "category": "gym",
         "length": "00:09",
         "event_info": {
@@ -729,8 +696,7 @@
         ]
     },
     {
-        "video_name": "hit_feet",
-        "id": "",
+        "id": "mix_034",
         "category": "gym",
         "length": "00:13",
         "event_info": {
@@ -751,8 +717,7 @@
         ]
     },
     {
-        "video_name": "beverage_explode",
-        "id": "",
+        "id": "mix_035",
         "category": "food&drink",
         "length": "00:11",
         "event_info": {
@@ -773,8 +738,7 @@
         ]
     },
     {
-        "video_name": "beverage_explode_2",
-        "id": "",
+        "id": "mix_036",
         "category": "food&drink",
         "length": "00:12",
         "event_info": {
@@ -795,8 +759,7 @@
         ]
     },
     {
-        "video_name": "cook_fire",
-        "id": "",
+        "id": "mix_037",
         "category": "food&drink",
         "length": "00:10",
         "event_info": {
@@ -818,8 +781,7 @@
         ]
     },
     {
-        "video_name": "cook_fire_2",
-        "id": "",
+        "id": "mix_038",
         "category": "food&drink",
         "length": "00:06",
         "event_info": {
@@ -841,8 +803,7 @@
         ]
     },
     {
-        "video_name": "cook_fire_3",
-        "id": "",
+        "id": "mix_039",
         "category": "food&drink",
         "length": "00:05",
         "event_info": {
@@ -864,8 +825,7 @@
         ]
     },
     {
-        "video_name": "cook_fire_4",
-        "id": "",
+        "id": "mix_040",
         "category": "food&drink",
         "length": "00:21",
         "event_info": {
@@ -887,8 +847,7 @@
         ]
     },
     {
-        "video_name": "cook_fire_5",
-        "id": "",
+        "id": "mix_041",
         "category": "food&drink",
         "length": "",
         "event_info": {
@@ -910,8 +869,7 @@
         ]
     },
     {
-        "video_name": "cook_fire_6",
-        "id": "",
+        "id": "mix_042",
         "category": "food&drink",
         "length": "00:12",
         "event_info": {
@@ -933,8 +891,7 @@
         ]
     },
     {
-        "video_name": "dog_eat_food",
-        "id": "",
+        "id": "mix_043",
         "category": "food&drink",
         "length": "00:02",
         "event_info": {
@@ -956,8 +913,7 @@
         ]
     },
     {
-        "video_name": "cooking_fall_down",
-        "id": "",
+        "id": "mix_044",
         "category": "food&drink",
         "length": "00:05",
         "event_info": {
@@ -979,8 +935,7 @@
         ]
     },
     {
-        "video_name": "drop_food_2",
-        "id": "",
+        "id": "mix_045",
         "category": "food&drink",
         "length": "00:05",
         "event_info": {
@@ -1001,8 +956,7 @@
         ]
     },
     {
-        "video_name": "drop_food_3",
-        "id": "",
+        "id": "mix_046",
         "category": "food&drink",
         "length": "00:04",
         "event_info": {
@@ -1024,8 +978,7 @@
         ]
     },
     {
-        "video_name": "drop_food_4",
-        "id": "",
+        "id": "mix_047",
         "category": "food&drink",
         "length": "00:04",
         "event_info": {
@@ -1046,8 +999,7 @@
         ]
     },
     {
-        "video_name": "drop_food_5",
-        "id": "",
+        "id": "mix_048",
         "category": "food&drink",
         "length": "00:07",
         "event_info": {
@@ -1069,8 +1021,7 @@
         ]
     },
     {
-        "video_name": "drop_food_6",
-        "id": "",
+        "id": "mix_049",
         "category": "food&drink",
         "length": "00:06",
         "event_info": {
@@ -1091,8 +1042,7 @@
         ]
     },
     {
-        "video_name": "drop_food_7",
-        "id": "",
+        "id": "mix_050",
         "category": "food&drink",
         "length": "00:08",
         "event_info": {
@@ -1115,8 +1065,7 @@
         ]
     },
     {
-        "video_name": "drop_food_8",
-        "id": "",
+        "id": "mix_051",
         "category": "food&drink",
         "length": "00:06",
         "event_info": {
@@ -1138,8 +1087,7 @@
         ]
     },
     {
-        "video_name": "drop_food_9",
-        "id": "",
+        "id": "mix_052",
         "category": "food&drink",
         "length": "00:07",
         "event_info": {
@@ -1160,8 +1108,7 @@
         ]
     },
     {
-        "video_name": "drop_food_10",
-        "id": "",
+        "id": "mix_053",
         "category": "food&drink",
         "length": "00:07",
         "event_info": {
@@ -1183,8 +1130,7 @@
         ]
     },
     {
-        "video_name": "drop_food_11",
-        "id": "",
+        "id": "mix_054",
         "category": "food&drink",
         "length": "00:09",
         "event_info": {
@@ -1206,8 +1152,7 @@
         ]
     },
     {
-        "video_name": "drop_food_12",
-        "id": "",
+        "id": "mix_055",
         "category": "food&drink",
         "length": "00:05",
         "event_info": {
@@ -1228,8 +1173,7 @@
         ]
     },
     {
-        "video_name": "drop_food_13",
-        "id": "",
+        "id": "mix_056",
         "category": "food&drink",
         "length": "00:04",
         "event_info": {
@@ -1250,8 +1194,7 @@
         ]
     },
     {
-        "video_name": "drop_food_14",
-        "id": "",
+        "id": "mix_057",
         "category": "food&drink",
         "length": "00:09",
         "event_info": {
@@ -1272,8 +1215,7 @@
         ]
     },
     {
-        "video_name": "drop_food_15",
-        "id": "",
+        "id": "mix_058",
         "category": "food&drink",
         "length": "00:06",
         "event_info": {
@@ -1294,8 +1236,7 @@
         ]
     },
     {
-        "video_name": "drop_food_16",
-        "id": "",
+        "id": "mix_059",
         "category": "food&drink",
         "length": "00:08",
         "event_info": {
@@ -1316,8 +1257,7 @@
         ]
     },
     {
-        "video_name": "drop_food_17",
-        "id": "",
+        "id": "mix_060",
         "category": "food&drink",
         "length": "00:10",
         "event_info": {
@@ -1338,8 +1278,7 @@
         ]
     },
     {
-        "video_name": "drop_food_18",
-        "id": "",
+        "id": "mix_061",
         "category": "food&drink",
         "length": "00:09",
         "event_info": {
@@ -1360,8 +1299,7 @@
         ]
     },
     {
-        "video_name": "drop_food_19",
-        "id": "",
+        "id": "mix_062",
         "category": "food&drink",
         "length": "00:08",
         "event_info": {
@@ -1382,8 +1320,7 @@
         ]
     },
     {
-        "video_name": "drop_food_20",
-        "id": "",
+        "id": "mix_063",
         "category": "food&drink",
         "length": "00:07",
         "event_info": {
@@ -1404,8 +1341,7 @@
         ]
     },
     {
-        "video_name": "drop_food_21",
-        "id": "",
+        "id": "mix_064",
         "category": "food&drink",
         "length": "00:06",
         "event_info": {
@@ -1426,8 +1362,7 @@
         ]
     },
     {
-        "video_name": "drop_food_22",
-        "id": "",
+        "id": "mix_065",
         "category": "food&drink",
         "length": "00:05",
         "event_info": {
@@ -1448,8 +1383,7 @@
         ]
     },
     {
-        "video_name": "drop_food_23",
-        "id": "",
+        "id": "mix_066",
         "category": "food&drink",
         "length": "00:08",
         "event_info": {
@@ -1470,8 +1404,7 @@
         ]
     },
     {
-        "video_name": "drop_food_24",
-        "id": "",
+        "id": "mix_067",
         "category": "food&drink",
         "length": "00:05",
         "event_info": {
@@ -1492,8 +1425,7 @@
         ]
     },
     {
-        "video_name": "drop_food_25",
-        "id": "",
+        "id": "mix_068",
         "category": "food&drink",
         "length": "00:11",
         "event_info": {
@@ -1514,8 +1446,7 @@
         ]
     },
     {
-        "video_name": "nothing_in_bag",
-        "id": "",
+        "id": "mix_069",
         "category": "food&drink",
         "length": "00:07",
         "event_info": {
@@ -1536,8 +1467,7 @@
         ]
     },
     {
-        "video_name": "popcorn",
-        "id": "",
+        "id": "mix_070",
         "category": "food&drink",
         "length": "00:14",
         "event_info": {
@@ -1558,8 +1488,7 @@
         ]
     },
     {
-        "video_name": "table_fall_down",
-        "id": "",
+        "id": "mix_071",
         "category": "food&drink",
         "length": "00:08",
         "event_info": {
@@ -1580,8 +1509,7 @@
         ]
     },
     {
-        "video_name": "teeth_fall_out",
-        "id": "",
+        "id": "mix_072",
         "category": "food&drink",
         "length": "00:08",
         "event_info": {
@@ -1602,8 +1530,7 @@
         ]
     },
     {
-        "video_name": "vending_stuck",
-        "id": "",
+        "id": "mix_073",
         "category": "food&drink",
         "length": "00:07",
         "event_info": {
@@ -1624,8 +1551,7 @@
         ]
     },
     {
-        "video_name": "water_spoil",
-        "id": "",
+        "id": "mix_074",
         "category": "food&drink",
         "length": "00:10",
         "event_info": {
@@ -1646,8 +1572,7 @@
         ]
     },
     {
-        "video_name": "water_spoil_2",
-        "id": "",
+        "id": "mix_075",
         "category": "food&drink",
         "length": "00:13",
         "event_info": {
@@ -1668,8 +1593,7 @@
         ]
     },
     {
-        "video_name": "water_spoil_3",
-        "id": "",
+        "id": "mix_076",
         "category": "food&drink",
         "length": "00:11",
         "event_info": {
@@ -1690,8 +1614,7 @@
         ]
     },
     {
-        "video_name": "bed_fall_down",
-        "id": "",
+        "id": "mix_077",
         "category": "daily",
         "length": "00:05",
         "event_info": {
@@ -1712,8 +1635,7 @@
         ]
     },
     {
-        "video_name": "drop_tv",
-        "id": "",
+        "id": "mix_078",
         "category": "daily",
         "length": "00:08",
         "event_info": {
@@ -1735,8 +1657,7 @@
         ]
     },
     {
-        "video_name": "fall_down",
-        "id": "",
+        "id": "mix_079",
         "category": "daily",
         "length": "00:07",
         "event_info": {
@@ -1756,8 +1677,7 @@
         ]
     },
     {
-        "video_name": "fall_down_2",
-        "id": "",
+        "id": "mix_080",
         "category": "daily",
         "length": "00:08",
         "event_info": {
@@ -1777,8 +1697,7 @@
         ]
     },
     {
-        "video_name": "fall_down_3",
-        "id": "",
+        "id": "mix_081",
         "category": "daily",
         "length": "00:08",
         "event_info": {
@@ -1798,8 +1717,7 @@
         ]
     },
     {
-        "video_name": "fall_down_4",
-        "id": "",
+        "id": "mix_082",
         "category": "daily",
         "length": "00:06",
         "event_info": {
@@ -1820,8 +1738,7 @@
         ]
     },
     {
-        "video_name": "fall_down_5",
-        "id": "",
+        "id": "mix_083",
         "category": "daily",
         "length": "00:07",
         "event_info": {
@@ -1842,8 +1759,7 @@
         ]
     },
     {
-        "video_name": "fall_down_6",
-        "id": "",
+        "id": "mix_084",
         "category": "daily",
         "length": "00:08",
         "event_info": {
@@ -1863,8 +1779,7 @@
         ]
     },
     {
-        "video_name": "fall_down_7",
-        "id": "",
+        "id": "mix_085",
         "category": "daily",
         "length": "00:07",
         "event_info": {
@@ -1885,8 +1800,7 @@
         ]
     },
     {
-        "video_name": "fall_down_8",
-        "id": "",
+        "id": "mix_086",
         "category": "daily",
         "length": "00:08",
         "event_info": {
@@ -1907,8 +1821,7 @@
         ]
     },
     {
-        "video_name": "fall_down_9",
-        "id": "",
+        "id": "mix_087",
         "category": "daily",
         "length": "00:07",
         "event_info": {
@@ -1928,8 +1841,7 @@
         ]
     },
     {
-        "video_name": "fall_down_10",
-        "id": "",
+        "id": "mix_088",
         "category": "daily",
         "length": "00:10",
         "event_info": {
@@ -1949,8 +1861,7 @@
         ]
     },
     {
-        "video_name": "fall_down_11",
-        "id": "",
+        "id": "mix_089",
         "category": "daily",
         "length": "00:06",
         "event_info": {
@@ -1970,8 +1881,7 @@
         ]
     },
     {
-        "video_name": "fall_down_12",
-        "id": "",
+        "id": "mix_090",
         "category": "daily",
         "length": "00:09",
         "event_info": {
@@ -1992,8 +1902,7 @@
         ]
     },
     {
-        "video_name": "fall_down_13",
-        "id": "",
+        "id": "mix_091",
         "category": "daily",
         "length": "00:11",
         "event_info": {
@@ -2014,8 +1923,7 @@
         ]
     },
     {
-        "video_name": "fall_down_14",
-        "id": "",
+        "id": "mix_092",
         "category": "daily",
         "length": "00:12",
         "event_info": {
@@ -2036,8 +1944,7 @@
         ]
     },
     {
-        "video_name": "fall_down_15",
-        "id": "",
+        "id": "mix_093",
         "category": "daily",
         "length": "00:08",
         "event_info": {
@@ -2058,8 +1965,7 @@
         ]
     },
     {
-        "video_name": "fall_down_16",
-        "id": "",
+        "id": "mix_094",
         "category": "daily",
         "length": "00:09",
         "event_info": {
@@ -2080,8 +1986,7 @@
         ]
     },
     {
-        "video_name": "fall_down_17",
-        "id": "",
+        "id": "mix_095",
         "category": "daily",
         "length": "00:12",
         "event_info": {
@@ -2102,8 +2007,7 @@
         ]
     },
     {
-        "video_name": "fall_down_18",
-        "id": "",
+        "id": "mix_096",
         "category": "daily",
         "length": "00:13",
         "event_info": {
@@ -2123,8 +2027,7 @@
         ]
     },
     {
-        "video_name": "fall_down_19",
-        "id": "",
+        "id": "mix_097",
         "category": "daily",
         "length": "00:08",
         "event_info": {
@@ -2145,8 +2048,7 @@
         ]
     },
     {
-        "video_name": "fall_down_20",
-        "id": "",
+        "id": "mix_098",
         "category": "daily",
         "length": "00:09",
         "event_info": {
@@ -2167,8 +2069,7 @@
         ]
     },
     {
-        "video_name": "fall_down_21",
-        "id": "",
+        "id": "mix_099",
         "category": "daily",
         "length": "00:07",
         "event_info": {
@@ -2188,8 +2089,7 @@
         ]
     },
     {
-        "video_name": "fall_down_22",
-        "id": "",
+        "id": "mix_100",
         "category": "daily",
         "length": "00:09",
         "event_info": {
@@ -2210,8 +2110,7 @@
         ]
     },
     {
-        "video_name": "locker_hit_people",
-        "id": "",
+        "id": "mix_101",
         "category": "daily",
         "length": "00:05",
         "event_info": {
@@ -2232,8 +2131,7 @@
         ]
     },
     {
-        "video_name": "play_games",
-        "id": "",
+        "id": "mix_102",
         "category": "daily",
         "length": "00:11",
         "event_info": {
@@ -2253,8 +2151,7 @@
         ]
     },
     {
-        "video_name": "drone_dropped",
-        "id": "",
+        "id": "mix_103",
         "category": "daily",
         "length": "00:08",
         "event_info": {
@@ -2275,8 +2172,7 @@
         ]
     },
     {
-        "video_name": "wave",
-        "id": "",
+        "id": "mix_104",
         "category": "daily",
         "length": "00:05",
         "event_info": {
@@ -2297,8 +2193,7 @@
         ]
     },
     {
-        "video_name": "ball_hit_face",
-        "id": "",
+        "id": "mix_105",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2319,8 +2214,7 @@
         ]
     },
     {
-        "video_name": "ball_hit_face_2",
-        "id": "",
+        "id": "mix_106",
         "category": "sports",
         "length": "00:06",
         "event_info": {
@@ -2341,8 +2235,7 @@
         ]
     },
     {
-        "video_name": "ball_hit_face_3",
-        "id": "",
+        "id": "mix_107",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2363,8 +2256,7 @@
         ]
     },
     {
-        "video_name": "ball_hit_face_4",
-        "id": "",
+        "id": "mix_108",
         "category": "sports",
         "length": "00:03",
         "event_info": {
@@ -2385,8 +2277,7 @@
         ]
     },
     {
-        "video_name": "ball_hit_face_5",
-        "id": "",
+        "id": "mix_109",
         "category": "sports",
         "length": "00:03",
         "event_info": {
@@ -2407,8 +2298,7 @@
         ]
     },
     {
-        "video_name": "ball_hit_face_6",
-        "id": "",
+        "id": "mix_110",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2429,8 +2319,7 @@
         ]
     },
     {
-        "video_name": "ball_hit_food",
-        "id": "",
+        "id": "mix_111",
         "category": "sports",
         "length": "00:09",
         "event_info": {
@@ -2451,8 +2340,7 @@
         ]
     },
     {
-        "video_name": "bike_crash",
-        "id": "",
+        "id": "mix_112",
         "category": "sports",
         "length": "00:04",
         "event_info": {
@@ -2474,8 +2362,7 @@
         ]
     },
     {
-        "video_name": "bird_frightened",
-        "id": "",
+        "id": "mix_113",
         "category": "sports",
         "length": "00:08",
         "event_info": {
@@ -2497,8 +2384,7 @@
         ]
     },
     {
-        "video_name": "drop_bar",
-        "id": "",
+        "id": "mix_114",
         "category": "sports",
         "length": "00:09",
         "event_info": {
@@ -2519,8 +2405,7 @@
         ]
     },
     {
-        "video_name": "drop_food",
-        "id": "",
+        "id": "mix_115",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2541,8 +2426,7 @@
         ]
     },
     {
-        "video_name": "fall_down_backflip",
-        "id": "",
+        "id": "mix_116",
         "category": "sports",
         "length": "00:07",
         "event_info": {
@@ -2562,8 +2446,7 @@
         ]
     },
     {
-        "video_name": "fall_down_baseball",
-        "id": "",
+        "id": "mix_117",
         "category": "sports",
         "length": "00:04",
         "event_info": {
@@ -2584,8 +2467,7 @@
         ]
     },
     {
-        "video_name": "fall_down_basketball",
-        "id": "",
+        "id": "mix_118",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2606,8 +2488,7 @@
         ]
     },
     {
-        "video_name": "fall_down_bike",
-        "id": "",
+        "id": "mix_119",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2628,8 +2509,7 @@
         ]
     },
     {
-        "video_name": "fall_down_car_race",
-        "id": "",
+        "id": "mix_120",
         "category": "sports",
         "length": "00:08",
         "event_info": {
@@ -2650,8 +2530,7 @@
         ]
     },
     {
-        "video_name": "fall_down_gymnasium",
-        "id": "",
+        "id": "mix_121",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2671,8 +2550,7 @@
         ]
     },
     {
-        "video_name": "fall_down_gymnastics",
-        "id": "",
+        "id": "mix_122",
         "category": "sports",
         "length": "00:07",
         "event_info": {
@@ -2692,8 +2570,7 @@
         ]
     },
     {
-        "video_name": "fall_down_iceball",
-        "id": "",
+        "id": "mix_123",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2713,8 +2590,7 @@
         ]
     },
     {
-        "video_name": "fall_down_motorbike",
-        "id": "",
+        "id": "mix_124",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2735,8 +2611,7 @@
         ]
     },
     {
-        "video_name": "fall_down_running",
-        "id": "",
+        "id": "mix_125",
         "category": "sports",
         "length": "00:06",
         "event_info": {
@@ -2756,8 +2631,7 @@
         ]
     },
     {
-        "video_name": "fall_down_running_2",
-        "id": "",
+        "id": "mix_126",
         "category": "sports",
         "length": "00:04",
         "event_info": {
@@ -2777,8 +2651,7 @@
         ]
     },
     {
-        "video_name": "fall_down_running_3",
-        "id": "",
+        "id": "mix_127",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2798,8 +2671,7 @@
         ]
     },
     {
-        "video_name": "fall_into_crowds_basketball",
-        "id": "",
+        "id": "mix_128",
         "category": "sports",
         "length": "00:06",
         "event_info": {
@@ -2820,8 +2692,7 @@
         ]
     },
     {
-        "video_name": "fall_into_crowds_basketball_2",
-        "id": "",
+        "id": "mix_129",
         "category": "sports",
         "length": "00:07",
         "event_info": {
@@ -2842,8 +2713,7 @@
         ]
     },
     {
-        "video_name": "high_jump_fail",
-        "id": "",
+        "id": "mix_130",
         "category": "sports",
         "length": "00:08",
         "event_info": {
@@ -2864,8 +2734,7 @@
         ]
     },
     {
-        "video_name": "high_jump_fail_2",
-        "id": "",
+        "id": "mix_131",
         "category": "sports",
         "length": "00:07",
         "event_info": {
@@ -2886,8 +2755,7 @@
         ]
     },
     {
-        "video_name": "high_jump_fail_3",
-        "id": "",
+        "id": "mix_132",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2907,8 +2775,7 @@
         ]
     },
     {
-        "video_name": "hit_camera_baseball",
-        "id": "",
+        "id": "mix_133",
         "category": "sports",
         "length": "00:04",
         "event_info": {
@@ -2929,8 +2796,7 @@
         ]
     },
     {
-        "video_name": "hit_head",
-        "id": "",
+        "id": "mix_134",
         "category": "sports",
         "length": "00:04",
         "event_info": {
@@ -2950,8 +2816,7 @@
         ]
     },
     {
-        "video_name": "hit_wall_iceball",
-        "id": "",
+        "id": "mix_135",
         "category": "sports",
         "length": "00:03",
         "event_info": {
@@ -2972,8 +2837,7 @@
         ]
     },
     {
-        "video_name": "hit_wall_skate",
-        "id": "",
+        "id": "mix_136",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -2993,8 +2857,7 @@
         ]
     },
     {
-        "video_name": "miss_golf",
-        "id": "",
+        "id": "mix_137",
         "category": "sports",
         "length": "00:13",
         "event_info": {
@@ -3015,8 +2878,7 @@
         ]
     },
     {
-        "video_name": "phone_drop",
-        "id": "",
+        "id": "mix_138",
         "category": "sports",
         "length": "00:05",
         "event_info": {
@@ -3037,8 +2899,7 @@
         ]
     },
     {
-        "video_name": "rock_paper_scissors",
-        "id": "",
+        "id": "mix_139",
         "category": "sports",
         "length": "00:09",
         "event_info": {
@@ -3059,8 +2920,7 @@
         ]
     },
     {
-        "video_name": "sail_broken",
-        "id": "",
+        "id": "mix_140",
         "category": "sports",
         "length": "00:06",
         "event_info": {
@@ -3081,8 +2941,7 @@
         ]
     },
     {
-        "video_name": "ship_landed",
-        "id": "",
+        "id": "mix_141",
         "category": "sports",
         "length": "00:06",
         "event_info": {
@@ -3103,8 +2962,7 @@
         ]
     },
     {
-        "video_name": "white_ball_drop_billiards",
-        "id": "",
+        "id": "mix_142",
         "category": "sports",
         "length": "00:04",
         "event_info": {
@@ -3125,8 +2983,7 @@
         ]
     },
     {
-        "video_name": "building_collapse",
-        "id": "",
+        "id": "mix_143",
         "category": "nature",
         "length": "00:23 ",
         "event_info": {
@@ -3146,8 +3003,7 @@
         ]
     },
     {
-        "video_name": "building_collapse_2",
-        "id": "",
+        "id": "mix_144",
         "category": "nature",
         "length": "00:12",
         "event_info": {
@@ -3167,8 +3023,7 @@
         ]
     },
     {
-        "video_name": "dam_breach",
-        "id": "",
+        "id": "mix_145",
         "category": "nature",
         "length": "00:14",
         "event_info": {
@@ -3188,8 +3043,7 @@
         ]
     },
     {
-        "video_name": "debris_flow",
-        "id": "",
+        "id": "mix_146",
         "category": "nature",
         "length": "00:09",
         "event_info": {
@@ -3209,8 +3063,7 @@
         ]
     },
     {
-        "video_name": "debris_flow_2",
-        "id": "",
+        "id": "mix_147",
         "category": "nature",
         "length": "00:09",
         "event_info": {
@@ -3231,8 +3084,7 @@
         ]
     },
     {
-        "video_name": "debris_flow_3",
-        "id": "",
+        "id": "mix_148",
         "category": "nature",
         "length": "00:21",
         "event_info": {
@@ -3252,8 +3104,7 @@
         ]
     },
     {
-        "video_name": "debris_flow_4",
-        "id": "",
+        "id": "mix_149",
         "category": "nature",
         "length": "00:21",
         "event_info": {
@@ -3273,8 +3124,7 @@
         ]
     },
     {
-        "video_name": "debris_flow_5",
-        "id": "",
+        "id": "mix_150",
         "category": "nature",
         "length": "00:36",
         "event_info": {
@@ -3294,8 +3144,7 @@
         ]
     },
     {
-        "video_name": "earthquake",
-        "id": "",
+        "id": "mix_151",
         "category": "nature",
         "length": "00:10",
         "event_info": {
@@ -3316,8 +3165,7 @@
         ]
     },
     {
-        "video_name": "earthquake_2",
-        "id": "",
+        "id": "mix_152",
         "category": "nature",
         "length": "00:05",
         "event_info": {
@@ -3338,8 +3186,7 @@
         ]
     },
     {
-        "video_name": "earthquake_3",
-        "id": "",
+        "id": "mix_153",
         "category": "nature",
         "length": "00:03",
         "event_info": {
@@ -3360,8 +3207,7 @@
         ]
     },
     {
-        "video_name": "earthquake_4",
-        "id": "",
+        "id": "mix_154",
         "category": "nature",
         "length": "00:03",
         "event_info": {
@@ -3382,8 +3228,7 @@
         ]
     },
     {
-        "video_name": "explosion",
-        "id": "",
+        "id": "mix_155",
         "category": "nature",
         "length": "00:19",
         "event_info": {
@@ -3403,8 +3248,7 @@
         ]
     },
     {
-        "video_name": "explosion_2",
-        "id": "",
+        "id": "mix_156",
         "category": "nature",
         "length": "00:18",
         "event_info": {
@@ -3424,8 +3268,7 @@
         ]
     },
     {
-        "video_name": "flood",
-        "id": "",
+        "id": "mix_157",
         "category": "nature",
         "length": "00:13",
         "event_info": {
@@ -3446,8 +3289,7 @@
         ]
     },
     {
-        "video_name": "flood_2",
-        "id": "",
+        "id": "mix_158",
         "category": "nature",
         "length": "00:22",
         "event_info": {
@@ -3468,8 +3310,7 @@
         ]
     },
     {
-        "video_name": "flood_3",
-        "id": "",
+        "id": "mix_159",
         "category": "nature",
         "length": "00:13",
         "event_info": {
@@ -3489,8 +3330,7 @@
         ]
     },
     {
-        "video_name": "flood_4",
-        "id": "",
+        "id": "mix_160",
         "category": "nature",
         "length": "00:16",
         "event_info": {
@@ -3512,8 +3352,7 @@
         ]
     },
     {
-        "video_name": "flood_5",
-        "id": "",
+        "id": "mix_161",
         "category": "nature",
         "length": "00:20",
         "event_info": {
@@ -3534,8 +3373,7 @@
         ]
     },
     {
-        "video_name": "flood_6",
-        "id": "",
+        "id": "mix_162",
         "category": "nature",
         "length": "00:34",
         "event_info": {
@@ -3557,8 +3395,7 @@
         ]
     },
     {
-        "video_name": "flood_7",
-        "id": "",
+        "id": "mix_163",
         "category": "nature",
         "length": "00:28",
         "event_info": {
@@ -3579,8 +3416,7 @@
         ]
     },
     {
-        "video_name": "flood_8",
-        "id": "",
+        "id": "mix_164",
         "category": "nature",
         "length": "00:37",
         "event_info": {
@@ -3602,8 +3438,7 @@
         ]
     },
     {
-        "video_name": "hurricane",
-        "id": "",
+        "id": "mix_165",
         "category": "nature",
         "length": "00:05",
         "event_info": {
@@ -3624,8 +3459,7 @@
         ]
     },
     {
-        "video_name": "hurricane_3",
-        "id": "",
+        "id": "mix_166",
         "category": "nature",
         "length": "00:21",
         "event_info": {
@@ -3646,8 +3480,7 @@
         ]
     },
     {
-        "video_name": "hurricane_5",
-        "id": "",
+        "id": "mix_167",
         "category": "nature",
         "length": "00:05",
         "event_info": {
@@ -3667,8 +3500,7 @@
         ]
     },
     {
-        "video_name": "iceberg_collapse",
-        "id": "",
+        "id": "mix_168",
         "category": "nature",
         "length": "01:29",
         "event_info": {
@@ -3689,8 +3521,7 @@
         ]
     },
     {
-        "video_name": "landslide",
-        "id": "",
+        "id": "mix_169",
         "category": "nature",
         "length": "00:12",
         "event_info": {
@@ -3710,8 +3541,7 @@
         ]
     },
     {
-        "video_name": "landslide_2",
-        "id": "",
+        "id": "mix_170",
         "category": "nature",
         "length": "00:22",
         "event_info": {
@@ -3731,8 +3561,7 @@
         ]
     },
     {
-        "video_name": "landslide_3",
-        "id": "",
+        "id": "mix_171",
         "category": "nature",
         "length": "00:09",
         "event_info": {
@@ -3752,8 +3581,7 @@
         ]
     },
     {
-        "video_name": "landslide_4",
-        "id": "",
+        "id": "mix_172",
         "category": "nature",
         "length": "00:20",
         "event_info": {
@@ -3773,8 +3601,7 @@
         ]
     },
     {
-        "video_name": "landslide_5",
-        "id": "",
+        "id": "mix_173",
         "category": "nature",
         "length": "00:26",
         "event_info": {
@@ -3794,8 +3621,7 @@
         ]
     },
     {
-        "video_name": "landslide_6",
-        "id": "",
+        "id": "mix_174",
         "category": "nature",
         "length": "00:13",
         "event_info": {
@@ -3817,8 +3643,7 @@
         ]
     },
     {
-        "video_name": "landslide_7",
-        "id": "",
+        "id": "mix_175",
         "category": "nature",
         "length": "00:10",
         "event_info": {
@@ -3839,8 +3664,7 @@
         ]
     },
     {
-        "video_name": "landslide_8",
-        "id": "",
+        "id": "mix_176",
         "category": "nature",
         "length": "00:19",
         "event_info": {
@@ -3860,8 +3684,7 @@
         ]
     },
     {
-        "video_name": "landslide_9",
-        "id": "",
+        "id": "mix_177",
         "category": "nature",
         "length": "00:58",
         "event_info": {
@@ -3883,8 +3706,7 @@
         ]
     },
     {
-        "video_name": "landslide_10",
-        "id": "",
+        "id": "mix_178",
         "category": "nature",
         "length": "00:18",
         "event_info": {
@@ -3906,8 +3728,7 @@
         ]
     },
     {
-        "video_name": "landslide_11",
-        "id": "",
+        "id": "mix_179",
         "category": "nature",
         "length": "00:29",
         "event_info": {
@@ -3928,8 +3749,7 @@
         ]
     },
     {
-        "video_name": "landslide_12",
-        "id": "",
+        "id": "mix_180",
         "category": "nature",
         "length": "00:12",
         "event_info": {
@@ -3949,8 +3769,7 @@
         ]
     },
     {
-        "video_name": "tornado_3",
-        "id": "",
+        "id": "mix_181",
         "category": "nature",
         "length": "00:06",
         "event_info": {
@@ -3970,8 +3789,7 @@
         ]
     },
     {
-        "video_name": "volcano_eruption",
-        "id": "",
+        "id": "mix_182",
         "category": "nature",
         "length": "00:19",
         "event_info": {
@@ -3992,8 +3810,7 @@
         ]
     },
     {
-        "video_name": "volcano_eruption_2",
-        "id": "",
+        "id": "mix_183",
         "category": "nature",
         "length": "00:37",
         "event_info": {
@@ -4013,8 +3830,7 @@
         ]
     },
     {
-        "video_name": "volcano_eruption_3",
-        "id": "",
+        "id": "mix_184",
         "category": "nature",
         "length": "00:47",
         "event_info": {
@@ -4034,8 +3850,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry",
-        "id": "",
+        "id": "mix_185",
         "category": "animate",
         "length": "00:13",
         "event_info": {
@@ -4056,8 +3871,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry_3",
-        "id": "",
+        "id": "mix_186",
         "category": "animate",
         "length": "00:07",
         "event_info": {
@@ -4078,8 +3892,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry_4",
-        "id": "",
+        "id": "mix_187",
         "category": "animate",
         "length": "00:11",
         "event_info": {
@@ -4100,8 +3913,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry_5",
-        "id": "",
+        "id": "mix_188",
         "category": "animate",
         "length": "00:12",
         "event_info": {
@@ -4122,8 +3934,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry_7",
-        "id": "",
+        "id": "mix_189",
         "category": "animate",
         "length": "00:10",
         "event_info": {
@@ -4144,8 +3955,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry_8",
-        "id": "",
+        "id": "mix_190",
         "category": "animate",
         "length": "00:28",
         "event_info": {
@@ -4166,8 +3976,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry_9",
-        "id": "",
+        "id": "mix_191",
         "category": "animate",
         "length": "00:17",
         "event_info": {
@@ -4189,8 +3998,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry_10",
-        "id": "",
+        "id": "mix_192",
         "category": "animate",
         "length": "00:11",
         "event_info": {
@@ -4211,8 +4019,7 @@
         ]
     },
     {
-        "video_name": "tom_jerry_18",
-        "id": "",
+        "id": "mix_193",
         "category": "animate",
         "length": "00:03",
         "event_info": {
