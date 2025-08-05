@@ -57,7 +57,7 @@ def parse_args():
 
 def get_model_output(model, video_processor, tokenizer, video, qs, args):
     if model.config.mm_use_im_start_end:
-        qs = DEFAULT_VID_START_TOKEN + ''.join([DEFAULT_IMAGE_TOKEN]*16) + DEFAULT_VID_END_TOKEN + '\n' + qs
+        qs = DEFAULT_VID_START_TOKEN + ''.join([DEFAULT_IMAGE_TOKEN]*8) + DEFAULT_VID_END_TOKEN + '\n' + qs
     else:
         qs = ''.join([DEFAULT_IMAGE_TOKEN]*8) + '\n' + qs
 
